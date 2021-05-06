@@ -1,0 +1,29 @@
+#footer {
+
+    position:fixed ;
+    width: 100%;
+    background-color: rgb(109, 235, 235);
+    color: chocolate;
+    bottom: 0;
+    text-align :center;
+}
+
+canvas {
+    border: 5px solid white;
+    border-radius: 75px;
+    box-shadow: 15px 15px 15px grey ;
+}
+
+#status {
+    color: chartreuse;
+}
+#happy{
+color: darkcyan;
+}
+
+#r  {
+    width: 90%;
+    font-size: 50px;
+    background-color: darkred;
+    color: deeppink;
+}
